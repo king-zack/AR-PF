@@ -32,4 +32,4 @@ Once these numbers are submitted, the program will write its output to the PFSav
 excel for simple cost analysis
 
 If bugs occur, contact: zachary.n.king@uconn.edu
-This program is written under the GPL licence: Any modification to this code for commercial purposes or otherwise is permitted.
+This program is written under the GNU-3 licence: Any modification to this code for commercial purposes or otherwise is permitted.
