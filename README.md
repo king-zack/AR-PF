@@ -1,7 +1,7 @@
 # AR-PF
 
 UCONN IAC Power Factor Calculator
-Written by -- Zachary King
+Written by -- Zachary King; Max Nelson
 
 This program is meant to automate the analysis of power factor analysis. An input CSV file is given as well as the rate per kVAR.
 Its purpose was to make power factor analysis trivial, saving time and labor.
